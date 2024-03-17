@@ -1,0 +1,20 @@
+.tpanel_frame .msg-text,.pagebody .msg-text,.msg-browserstatus .msg-body {
+    overflow-y: visible;
+    height: auto !important;
+    min-height: 300px;
+}
+.targetlist-table,.dm-panel .dm-panel-body, .dm-panel-body #blockercandtable,
+.coursecollection .articleindex .contentspagelist ul,.groupnews_frame .groupnews-status .msg-text,
+.pagebody div.queryadm .contentbody-left .queryv4{
+    overflow-y: visible;
+    height:auto;
+   max-height:none
+}
+body .userballoonframe{
+    height: auto;
+    overflow: visible;
+}
+.userballooncontent,{
+    overflow-y: visible;
+    height: auto;
+}
